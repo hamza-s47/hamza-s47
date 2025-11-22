@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer • Angular, Bash, Python • ML Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Software+Engineer;Backend+Developer;C%2B%2B+%7C+Python;Cybersecurity+%26+Red+Team+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Software+Engineer;Fullstack+Developer;Angular+%7C+JS/TS+%7C+TailwindCSS;C%2B%2B+%7C+Bash+%7C+Linux;ML+Learner" />
 </p>
 
 ---
