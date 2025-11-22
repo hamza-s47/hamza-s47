@@ -48,11 +48,11 @@ Hamza — developer with interest in machine learning and AI.
 - HTML, CSS, TypeScript
 - Tailwind CSS 
 
-<<! ### **Databases**
+<!-- ### **Databases**
 - MySQL  
 - SQLite  
 
---- >>
+--- -->
 
 ## 📌 Highlighted Projects
 
