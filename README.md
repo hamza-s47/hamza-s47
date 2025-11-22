@@ -9,15 +9,13 @@
 
 ## 🧑‍💻 Profile Overview
 
-Worked as a **Software Engineer** at Technomites (in Pakistan) for **2 years.**
-Specialize in developing Responsive single-page web applications using **Angular.**
-Comfortable working in **Linux** environments, primarily Debian-based distributions.
-Develop automation scripts with**Python** and **Bash** to improve workflows.
-Continuously learning and exploring new technologies to stay updated with the
-changing tech world.
-Open to working on any part of the tech stack, including Back-end development.
-**Strong programming fundamentals** make it easy to switch between languages and
-frameworks like Go, NodeJS, or others as needed.
+- Worked as a **Software Engineer** at Technomites (in Pakistan) for **2 years.**
+- Specialize in developing Responsive single-page web applications using **Angular.**
+- Comfortable working in **Linux** environments, primarily Debian-based distributions.
+- Develop automation scripts with**Python** and **Bash** to improve workflows.
+- Continuously learning and exploring new technologies to stay updated with the changing tech world.
+- Open to working on any part of the tech stack, including Back-end development.
+- **Strong programming fundamentals** make it easy to switch between languages and frameworks like Go, NodeJS, or others as needed.
 
 ```bash
 $ whoami
