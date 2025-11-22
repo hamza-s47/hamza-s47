@@ -30,7 +30,8 @@ Hamza — developer with interest in machine learning and AI.
 - C++
 - Python
 - TypeScript / JavaScript  
-- Bash 
+- Bash
+- Go
 
 ### **Backend Development**
 - FastAPI  
@@ -55,9 +56,9 @@ Hamza — developer with interest in machine learning and AI.
 ## 📌 Highlighted Projects
 
 ### **1. WeSetupBusiness**
-Developed the WeSetupBusiness landing page using Angular and Tailwind CSS, integrating POST APIs for user submissions and interactions.  
-Focused on SEO by adding meta data, schemas, and canonical links to ensure SEO-friendliness.
-Optimized for dynamic content with a static structure for improved performance and lead generation.
+Developed the WeSetupBusiness landing page using Angular and Tailwind CSS, integrating POST APIs for user submissions and interactions.  <br/>
+Focused on SEO by adding meta data, schemas, and canonical links to ensure SEO-friendliness. <br/>
+Optimized for dynamic content with a static structure for improved performance and lead generation. <br/>
 
 ### **2. Email Extractor App**
 A user-friendly tool built with Python (Pandas, bs4) and Flask(APIs) that helps you find and extract email addresses from raw text, websites and files (pdf, excel, docx, etc).
@@ -103,8 +104,8 @@ $ system-check
 
 Backend (Python-FastAPI)    ✔✔✔✔◼
 C++ Development        ✔✔✔◼◼
-Linux & Automation     ✔✔✔◼◼
 Frontend (Angular-TailwindCSS)     ✔✔✔✔◼
+Linux & Automation     ✔✔✔◼◼
 ```
 
 ---
