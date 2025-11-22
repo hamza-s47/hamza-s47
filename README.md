@@ -112,7 +112,7 @@ Frontend (Angular-TailwindCSS)     ✔✔✔✔◼
 ## 📬 Contact
 
 - **Email:** hamza.siddiqui4747@gmail.com 
-- **LinkedIn:** linkedin.com/in/hamza-s47
+- **LinkedIn:** https://linkedin.com/in/hamza-s47
 - **GitHub:** https://github.com/hamza-s47
 
 ---
