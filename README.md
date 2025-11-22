@@ -89,8 +89,8 @@ $ cat learning-progress.txt
 
 ## 📊 GitHub Insights
 
-<p align="center">
-  [//]: # <img height="165" src="https://github-readme-stats.vercel.app/api?username=hamza-s47&show_icons=true&theme=github_dark&hide_border=true" />
+<p> <!-- align="center" -->
+  <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=hamza-s47&show_icons=true&theme=github_dark&hide_border=true" /> -->
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=hamza-s47&theme=github-dark&hide_border=true" />
 </p>
 
