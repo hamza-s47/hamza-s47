@@ -1,4 +1,6 @@
-<h1 align="center" style="color:red">HAMZA SIDDIQUI</h1>
+<!-- <h1 align="center" style="color:red">HAMZA SIDDIQUI</h1> -->
+<h1 style="text-align:center; color:red;">HAMZA SIDDIQUI</h1>
+
 <h3 align="center">Software Engineer • Angular, Bash, Python • ML/AI Learner</h3>
 
 <p align="center">
