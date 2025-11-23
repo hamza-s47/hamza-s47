@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer • Angular, Bash, Python • ML/AI Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Software+Engineer;Full-stack+Developer;Angular+%7C+JS/TS+%7C+TailwindCSS;Python+%7C+FastAPI;C%2B%2B+%7C+Bash+%7C+Linux;ML/AI+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=#44bd32&center=true&vCenter=true&lines=Software+Engineer;Full-stack+Developer;Angular+%7C+JS/TS+%7C+TailwindCSS;Python+%7C+FastAPI;C%2B%2B+%7C+Bash+%7C+Linux;ML/AI+Learner" />
 </p>
 
 ---
@@ -56,18 +56,18 @@ Hamza — developer with interest in machine learning and AI.
 ## 📌 Highlighted Projects
 
 ### **1. WeSetupBusiness**
-Developed the WeSetupBusiness landing page using Angular and Tailwind CSS, integrating POST APIs for user submissions and interactions.  <br/>
-Focused on SEO by adding meta data, schemas, and canonical links to ensure SEO-friendliness. <br/>
-Optimized for dynamic content with a static structure for improved performance and lead generation.
+- Developed the WeSetupBusiness landing page using Angular and Tailwind CSS, integrating POST APIs for user submissions and interactions.  <br/>
+- Focused on SEO by adding meta data, schemas, and canonical links to ensure SEO-friendliness. <br/>
+- Optimized for dynamic content with a static structure for improved performance and lead generation.
 
 ### **2. Email Extractor App**
-A user-friendly tool built with Python (Pandas, bs4) and Flask(APIs) that helps you find and extract email addresses from raw text, websites and files (pdf, excel, docx, etc). <br/>
-The application combines a simple front end with back end to ensure smooth data sharing. <br/>
-This project is perfect for anyone looking to gather email addresses for marketing or research purposes.
+- A user-friendly tool built with Python (Pandas, bs4) and Flask(APIs) that helps you find and extract email addresses from raw text, websites and files (pdf, excel, docx, etc). <br/>
+- The application combines a simple front end with back end to ensure smooth data sharing. <br/>
+- This project is perfect for anyone looking to gather email addresses for marketing or research purposes.
 
 ### **3. Falconpack UAE**
-This web app was built using Angular CLI, with Tailwind CSS and Angular libraries for a modern, responsive design and it is dual lingual (English-Arabic). <br/>
-It smoothly interacts with backend APIs and databases, offering a visually appealing, scalable, and user-friendly experience.
+- This web app was built using Angular CLI, with Tailwind CSS and Angular libraries for a modern, responsive design and it is dual lingual (English-Arabic). <br/>
+- It smoothly interacts with backend APIs and databases, offering a visually appealing, scalable, and user-friendly experience.
 
 ### **4. Restaurant Template**
 Modular and scalable SPA templates for:
