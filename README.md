@@ -1,4 +1,4 @@
-<h1 align="center">Hamza Siddiqui</h1>
+<h1 align="center">HAMZA SIDDIQUI</h1>
 <h3 align="center">Software Engineer • Angular, Bash, Python • ML/AI Learner</h3>
 
 <p align="center">
