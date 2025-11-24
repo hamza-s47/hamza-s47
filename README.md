@@ -6,7 +6,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 🧑‍💻 Profile Overview
+
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmwzN3g5bHA2ZXRrcnJiM2lybTNhYzRhODZrMXB2cWdvd2FtZHF4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WT5h7PgVSScLLKtMaS/giphy.gif" width ="25"><b> Profile Overview</b> 
 
 - Worked as a **Software Engineer** at Technomites (in Pakistan) for **2 years.**
 - Specialize in developing Responsive single-page web applications using **Angular.**
