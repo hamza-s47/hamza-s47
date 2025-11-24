@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmwzN3g5bHA2ZXRrcnJiM2lybTNhYzRhODZrMXB2cWdvd2FtZHF4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WT5h7PgVSScLLKtMaS/giphy.gif" width ="25"><b> Profile Overview</b> 
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmwzN3g5bHA2ZXRrcnJiM2lybTNhYzRhODZrMXB2cWdvd2FtZHF4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WT5h7PgVSScLLKtMaS/giphy.gif" width ="50"><b>Profile Overview</b> 
 
 - Worked as a **Software Engineer** at Technomites (in Pakistan) for **2 years.**
 - Specialize in developing Responsive single-page web applications using **Angular.**
@@ -24,7 +24,7 @@ Hamza — developer with interest in machine learning and AI.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technical Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><b> Technical Skills</b>
 
 ### **Programming Languages**
 - C++
@@ -33,19 +33,20 @@ Hamza — developer with interest in machine learning and AI.
 - Bash
 - Go
 
-### **Backend Development**
-- FastAPI  
-- REST API design  
-- Authentication & middleware
-
-### **Systems & Tools**
-- Linux (Parrot OS)  
-- Git, GitHub  
-
 ### **Frontend**
 - Angular (SPA architecture)  
 - HTML, CSS, TypeScript
 - Tailwind CSS 
+
+### **Backend**
+- Python - FastAPI
+- Go - Gin
+- REST API
+
+### **Systems & Tools**
+- Linux (Parrot OS)  
+- Git, GitHub
+- VS Codium
 
 <!-- ### **Databases**
 - MySQL  
@@ -53,7 +54,7 @@ Hamza — developer with interest in machine learning and AI.
 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBlc2x1eW1qMmc4ZHZhcG03c25zd3pmOXVrZ3E3c3JmcWdpYnM4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VhR2wFJ5ER2oq376Ao/giphy.gif" width="35"><b> Highlighted Projects</b>
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBlc2x1eW1qMmc4ZHZhcG03c25zd3pmOXVrZ3E3c3JmcWdpYnM4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VhR2wFJ5ER2oq376Ao/giphy.gif" width="35"><b>Highlighted Projects</b>
 
 ### **1. WeSetupBusiness**
 - Developed the WeSetupBusiness landing page using Angular and Tailwind CSS, integrating POST APIs for user submissions and interactions.  <br/>
@@ -97,7 +98,7 @@ $ cat learning-progress.txt
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 🧭 Professional Snapshot
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExang0aHV5YXFrbHh5d3plamZ3MGd6NWJqbGswbmxqcG5iZ2NlcHltYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VdcrzQAm1R0Hoe1yzm/giphy.gif" width="35"><b> Professional Snapshot</b>
 
 ```bash
 $ system-check
