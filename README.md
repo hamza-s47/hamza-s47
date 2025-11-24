@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=#44bd32&center=true&vCenter=true&lines=Software+Engineer;Full-stack+Developer;Angular+%7C+JS/TS+%7C+TailwindCSS;Python+%7C+FastAPI;C%2B%2B+%7C+Bash+%7C+Linux;ML/AI+Learner" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## 🧑‍💻 Profile Overview
 
@@ -23,9 +23,9 @@ $ whoami
 Hamza — developer with interest in machine learning and AI.
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## ⚙️ Technical Skills
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technical Skills</b>
 
 ### **Programming Languages**
 - C++
@@ -51,10 +51,10 @@ Hamza — developer with interest in machine learning and AI.
 <!-- ### **Databases**
 - MySQL  
 - SQLite  
+-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
---- -->
-
-## 📌 Highlighted Projects
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBlc2x1eW1qMmc4ZHZhcG03c25zd3pmOXVrZ3E3c3JmcWdpYnM4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VhR2wFJ5ER2oq376Ao/giphy.gif" width="35"><b> Highlighted Projects</b>
 
 ### **1. WeSetupBusiness**
 - Developed the WeSetupBusiness landing page using Angular and Tailwind CSS, integrating POST APIs for user submissions and interactions.  <br/>
@@ -76,9 +76,9 @@ Modular and scalable SPA templates for:
 - Drive-through  
 - Home delivery  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 🎯 Current Focus
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXQ1cXZuZDl3eHhpMHppNHl5YmQyMXF1M2syZXdvNDJobjJyYXVlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GlHV2O0IpxAsRjVsNb/giphy.gif" width="35"><b> Current Focus</b>
 
 ```bash
 $ cat learning-progress.txt
@@ -87,16 +87,16 @@ $ cat learning-progress.txt
 • Machine learning
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 📊 GitHub Insights
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Insights</b>
 
 <p> <!-- align="center" -->
   <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=hamza-s47&show_icons=true&theme=github_dark&hide_border=true" /> -->
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=hamza-s47&theme=github-dark&hide_border=true" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## 🧭 Professional Snapshot
 
@@ -109,12 +109,13 @@ Frontend (Angular-TailwindCSS)     ✔✔✔✔◼
 Linux & Automation     ✔✔✔◼◼
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 📬 Contact
+
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHF3bTgxZnR3b2pnZmRodG8zNWYzems2OWx0eno1ZWFyYnVvb3M2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XfLpgguefqGopOGzfg/giphy.gif" width="25"><b> Contact</b>
 
 - **Email:** hamza.siddiqui4747@gmail.com 
 - **LinkedIn:** https://linkedin.com/in/hamza-s47
 - **GitHub:** https://github.com/hamza-s47
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
