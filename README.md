@@ -112,10 +112,11 @@ Linux & Automation     ✔✔✔◼◼
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHF3bTgxZnR3b2pnZmRodG8zNWYzems2OWx0eno1ZWFyYnVvb3M2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XfLpgguefqGopOGzfg/giphy.gif" width="25"><b> Contact</b>
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J5M2NldTJyeDFpNTU5OHUzdnRoZnd6NXozNm9pc3FxdG03dTVuZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mLMvTsCWho4zKHj5uz/giphy.gif" width="150">
 
 - **Email:** hamza.siddiqui4747@gmail.com 
-- **LinkedIn:** https://linkedin.com/in/hamza-s47
 - **GitHub:** https://github.com/hamza-s47
+- **HackerRank:** https://hackerrank.com/profile/hamza_24
+- **LinkedIn:** https://linkedin.com/in/hamza-s47
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
