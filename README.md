@@ -56,25 +56,29 @@ Hamza — developer with interest in machine learning and AI.
 
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBlc2x1eW1qMmc4ZHZhcG03c25zd3pmOXVrZ3E3c3JmcWdpYnM4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VhR2wFJ5ER2oq376Ao/giphy.gif" width="35"><b>Highlighted Projects</b>
 
-### **1. WeSetupBusiness**
+### **<a href="https://hamzasiddiqui.netlify.app/projects?q=nda">1. WeSetupBusiness</a>**
 - Developed the WeSetupBusiness landing page using Angular and Tailwind CSS, integrating POST APIs for user submissions and interactions.  <br/>
 - Focused on SEO by adding meta data, schemas, and canonical links to ensure SEO-friendliness. <br/>
 - Optimized for dynamic content with a static structure for improved performance and lead generation.
 
-### **2. Email Extractor App**
+### **<a href="https://email-extractor.vercel.app" target="_blank">2. Email Extractor App</a>**
 - A user-friendly tool built with Python (Pandas, bs4) and Flask(APIs) that helps you find and extract email addresses from raw text, websites and files (pdf, excel, docx, etc). <br/>
 - The application combines a simple front end with back end to ensure smooth data sharing. <br/>
 - This project is perfect for anyone looking to gather email addresses for marketing or research purposes.
 
-### **3. Falconpack UAE**
+### **<a href="https://hamzasiddiqui.netlify.app/projects?q=nda">3. Falconpack UAE</a>**
 - This web app was built using Angular CLI, with Tailwind CSS and Angular libraries for a modern, responsive design and it is dual lingual (English-Arabic). <br/>
 - It smoothly interacts with backend APIs and databases, offering a visually appealing, scalable, and user-friendly experience.
 
-### **4. Restaurant Template**
+### **<a href="https://hamzasiddiqui.netlify.app/projects?q=nda">4. Restaurant Template</a>**
 Modular and scalable SPA templates for:
 - Dine-in  
 - Drive-through  
-- Home delivery  
+- Home delivery
+
+### **<a href="https://hamzasiddiqui.netlify.app/projects?q=nda">5. Matrix CLI</a>**
+- Matrix CLI is a lightweight command-line matrix calculator built on top of NumPy, designed for quick matrix operations directly from your terminal. <br/>
+- It supports matrix arithmetic, transformations, and utilities without needing to open a Python interpreter or write scripts.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
