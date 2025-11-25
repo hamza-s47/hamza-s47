@@ -123,5 +123,6 @@ Linux & Automation     ✔✔✔◼◼
 - **GitHub:** https://github.com/hamza-s47
 - **HackerRank:** https://hackerrank.com/profile/hamza_24
 - **LinkedIn:** https://linkedin.com/in/hamza-s47
+- **Portfolio:** https://hamzasiddiqui.netlify.app
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
