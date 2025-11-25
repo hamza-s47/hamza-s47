@@ -74,7 +74,6 @@ Hamza — developer with interest in machine learning and AI.
 Modular and scalable SPA templates for:
 - Dine-in  
 - Drive-through  
-- Home delivery  
 - Home delivery
 
 ### **<a href="https://github.com/hamza-s47/matrix-cli">5. Matrix CLI</a>**
