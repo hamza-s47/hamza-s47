@@ -1,4 +1,4 @@
-<img src="header.gif"/>
+<img src="banner.gif"/>
 
 <!--<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=#44bd32&center=true&vCenter=true&lines=Software+Engineer;Full-stack+Developer;Angular+%7C+JS/TS+%7C+TailwindCSS;Python+%7C+FastAPI;C%2B%2B+%7C+Bash+%7C+Linux;ML/AI+Learner" />
@@ -17,10 +17,10 @@
 - Open to working on any part of the tech stack, including Back-end development.
 - **Strong programming fundamentals** make it easy to switch between languages and frameworks like Go, NodeJS, or others as needed.
 
-```bash
+<!--```bash
 $ whoami
-Hamza — developer with interest in machine learning and AI.
-```
+Hamza — developer.
+```-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -88,7 +88,6 @@ Modular and scalable SPA templates for:
 $ cat learning-progress.txt
 • Advanced C++ (memory, threading, performance)
 • Golang
-• Machine learning
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -107,9 +106,10 @@ $ cat learning-progress.txt
 ```bash
 $ system-check
 
-Backend (Python-FastAPI)    ✔✔✔✔◼
+Backend (Python-FastAPI)    ✔✔✔◼◼
 C++ Development        ✔✔✔◼◼
 Frontend (Angular-TailwindCSS)     ✔✔✔✔◼
+Go    ✔✔◼◼◼
 Linux & Automation     ✔✔✔◼◼
 ```
 
