@@ -56,7 +56,7 @@ Hamza — developer.
 
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBlc2x1eW1qMmc4ZHZhcG03c25zd3pmOXVrZ3E3c3JmcWdpYnM4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VhR2wFJ5ER2oq376Ao/giphy.gif" width="35"><b>Highlighted Projects</b>
 
-### **<a href="https://hamzasiddiqui.netlify.app/projects?q=nda">1. WeSetupBusiness</a>**
+### **<a href="https://wesetupbusiness.com">1. WeSetupBusiness</a>**
 - Developed the WeSetupBusiness landing page using Angular and Tailwind CSS, integrating POST APIs for user submissions and interactions.  <br/>
 - Focused on SEO by adding meta data, schemas, and canonical links to ensure SEO-friendliness. <br/>
 - Optimized for dynamic content with a static structure for improved performance and lead generation.
@@ -66,7 +66,7 @@ Hamza — developer.
 - The application combines a simple front end with back end to ensure smooth data sharing. <br/>
 - This project is perfect for anyone looking to gather email addresses for marketing or research purposes.
 
-### **<a href="https://hamzasiddiqui.netlify.app/projects?q=nda">3. Falconpack UAE</a>**
+### **<a href="https://falconpack.com">3. Falconpack UAE</a>**
 - This web app was built using Angular CLI, with Tailwind CSS and Angular libraries for a modern, responsive design and it is dual lingual (English-Arabic). <br/>
 - It smoothly interacts with backend APIs and databases, offering a visually appealing, scalable, and user-friendly experience.
 
