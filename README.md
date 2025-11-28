@@ -35,7 +35,7 @@ Hamza — developer.
 
 ### **Frontend**
 - Angular (SPA architecture)  
-- HTML, CSS, TypeScript
+- HTML, CSS, JS/TS
 - Tailwind CSS 
 
 ### **Backend**
