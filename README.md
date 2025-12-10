@@ -1,4 +1,4 @@
-<img src="banner.gif"/>
+<img src="header.gif"/>
 
 <!--<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=#44bd32&center=true&vCenter=true&lines=Software+Engineer;Full-stack+Developer;Angular+%7C+JS/TS+%7C+TailwindCSS;Python+%7C+FastAPI;C%2B%2B+%7C+Bash+%7C+Linux;ML/AI+Learner" />
@@ -91,7 +91,7 @@ Modular and scalable SPA templates for:
 ```bash
 $ cat learning-progress.txt
 • Advanced C++ (memory, threading, performance)
-• Golang
+• FastAPI
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -111,11 +111,10 @@ $ cat learning-progress.txt
 $ system-check
 
 Backend (Go-Gin)                   ✔✔✔◼◼
-C++ Development                    ✔✔✔◼◼
+C++ Development                    ✔✔◼◼◼
 Frontend (Angular-TailwindCSS)     ✔✔✔✔◼
-FastAPI                            ✔✔◼◼◼
 Linux & Automation                 ✔✔✔◼◼
-Python Development                 ✔✔✔◼◼
+Python Development                 ✔✔◼◼◼
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
