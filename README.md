@@ -41,7 +41,6 @@ Hamza — developer.
 - Tailwind CSS 
 
 ### **Backend**
-- Python - FastAPI
 - Go - Gin
 - REST API
 
