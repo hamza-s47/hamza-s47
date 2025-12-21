@@ -90,17 +90,18 @@ Modular and scalable SPA templates for:
 ```bash
 $ cat learning-progress.txt
 • Advanced C++ (memory, threading, performance)
-• FastAPI
+• Go Advance
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<!--## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Insights</b> -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Insights</b>
 
-<p> <!-- align="center" -->
+<p>
   <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=hamza-s47&show_icons=true&theme=github_dark&hide_border=true" /> -->
-<!--  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=hamza-s47&theme=github-dark&hide_border=true" />
-</p> -->
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=hamza-s47&theme=github-dark&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-s47&layout=compact&hide_border=true&theme=chartreuse-dark" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
