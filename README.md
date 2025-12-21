@@ -89,8 +89,8 @@ Modular and scalable SPA templates for:
 
 ```bash
 $ cat learning-progress.txt
-• Advanced C++ (memory, threading, performance)
-• Go Advance
+• Advanced Go (concurrency, context, memory)
+• Systems Design
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
