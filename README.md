@@ -93,15 +93,15 @@ $ cat learning-progress.txt
 • Systems Design
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Insights</b>
 
 <p>
-  <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=hamza-s47&show_icons=true&theme=github_dark&hide_border=true" /> -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hamza-s47&show_icons=true&theme=github_dark&hide_border=true" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=hamza-s47&theme=chartreuse-dark&hide_border=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-s47&layout=compact&hide_border=true&theme=chartreuse-dark" />
-</p>
+</p> -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -120,7 +120,7 @@ Python Development                 ✔✔◼◼◼
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J5M2NldTJyeDFpNTU5OHUzdnRoZnd6NXozNm9pc3FxdG03dTVuZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mLMvTsCWho4zKHj5uz/giphy.gif" width="150">
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J5M2NldTJyeDFpNTU5OHUzdnRoZnd6NXozNm9pc3FxdG03dTVuZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mLMvTsCWho4zKHj5uz/giphy.gif" width="45"><b> Contact Me</b>
 
 - **Email:** hamza.siddiqui4747@gmail.com 
 - **GitHub:** https://github.com/hamza-s47
