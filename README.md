@@ -81,7 +81,7 @@ Modular and scalable SPA templates for:
 - Matrix CLI is a lightweight command-line matrix calculator built on top of NumPy, designed for quick matrix operations directly from your terminal. <br/>
 - It supports matrix arithmetic, transformations, and utilities without needing to open a Python interpreter or write scripts.
 
-### **<a href="https://github.com/hamza-s47/matrix-cli">SEE ALL PROJECTS</a>**
+### **<a href="https://hamzasiddiqui.netlify.app/projects">SEE ALL PROJECTS</a>**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
