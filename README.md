@@ -62,10 +62,10 @@ Hamza — developer.
 - Focused on SEO by adding meta data, schemas, and canonical links to ensure SEO-friendliness. <br/>
 - Optimized for dynamic content with a static structure for improved performance and lead generation.
 
-### **<a href="https://email-extractor.vercel.app" target="_blank">2. Email Extractor App</a>**
-- A user-friendly tool built with Python (Pandas, bs4) and Flask(APIs) that helps you find and extract email addresses from raw text, websites and files (pdf, excel, docx, etc). <br/>
-- The application combines a simple front end with back end to ensure smooth data sharing. <br/>
-- This project is perfect for anyone looking to gather email addresses for marketing or research purposes.
+### **<a href="https://github.com/hamza-s47/api-guard" target="_blank">2. API Guard</a>**
+- A production-ready API Gateway built in Go. <br/>
+- It provides reverse proxying, middleware-based rate limiting, logging, and graceful shutdown. <br/>
+- Designed with clean architecture and extensibility in mind.
 
 ### **<a href="https://falconpack.com">3. Falconpack UAE</a>**
 - This web app was built using Angular CLI, with Tailwind CSS and Angular libraries for a modern, responsive design and it is dual lingual (English-Arabic). <br/>
@@ -80,6 +80,11 @@ Modular and scalable SPA templates for:
 ### **<a href="https://github.com/hamza-s47/matrix-cli">5. Matrix CLI</a>**
 - Matrix CLI is a lightweight command-line matrix calculator built on top of NumPy, designed for quick matrix operations directly from your terminal. <br/>
 - It supports matrix arithmetic, transformations, and utilities without needing to open a Python interpreter or write scripts.
+
+### **<a href="https://email-extractor.vercel.app" target="_blank">6. Email Extractor App</a>**
+- A user-friendly tool built with Python (Pandas, bs4) and Flask(APIs) that helps you find and extract email addresses from raw text, websites and files (pdf, excel, docx, etc). <br/>
+- The application combines a simple front end with back end to ensure smooth data sharing. <br/>
+- This project is perfect for anyone looking to gather email addresses for marketing or research purposes.
 
 ### **<a href="https://hamzasiddiqui.netlify.app/projects">SEE ALL PROJECTS</a>**
 
