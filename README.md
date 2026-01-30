@@ -9,13 +9,11 @@
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmwzN3g5bHA2ZXRrcnJiM2lybTNhYzRhODZrMXB2cWdvd2FtZHF4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WT5h7PgVSScLLKtMaS/giphy.gif" width ="50"><b>Profile Overview</b> 
 
-- Worked as a **Software Engineer** at Technomites (in Pakistan) for **2 years.**
-- Specialize in developing Responsive single-page web applications using **Angular.**
-- Comfortable working in **Linux** environments, primarily Debian-based distributions.
-- Experienced across the **full tech stack,** with growing focus on **Backend development** such as API design and server-side logic.
-- Continuously learning and exploring new technologies to stay updated with the changing tech world.
-- Open to working on any part of the tech stack, including Back-end development.
-- **Strong programming fundamentals** make it easy to switch between languages and frameworks like Go, NodeJS, or others as needed.
+- **Software Engineer** with **2 years of professional experience** at Technomites (Pakistan), specializing in building responsive, scalable Single-Page Applications (SPAs) using **Angular.**
+- I’m comfortable working in **Linux** (Debian-based) environments and have experience across the full technology stack, with a growing focus on **Backend development,** including API design and server-side logic.
+- I have **strong programming fundamentals,** which allow me to adapt quickly to new languages and frameworks such as Flutter, Node.js, and others as needed.
+- Continuously learning and exploring new technologies to stay updated with the evolving tech world.
+- **Open to working across the stack,** with particular interest in backend and system-level development.
 
 <!--```bash
 $ whoami
